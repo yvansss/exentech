@@ -3410,7 +3410,7 @@ h2.resp-tab-active {
 }
 h2.resp-tab-title:last-child {
     border-bottom: 12px solid #c1c1c1 !important;
-    background: blue;
+    background: orange;
 }
 /*-----------Vertical tabs-----------*/.resp-vtabs ul.resp-tabs-list {
     float: left;
